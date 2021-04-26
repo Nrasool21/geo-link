@@ -9,7 +9,7 @@ Hope you enjoy it !!
 
 ## Link to Github profile
 
-https://github.com/ivnkris/geo-link
+https://github.com/Nrasool21/geo-link
 
 ## Contributors
 
